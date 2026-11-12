@@ -49,6 +49,13 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on a retai
 2. **Demographic-Focused Marketing:** Tailor digital ad campaigns and loyalty rewards toward the `[Insert Dominant Age Bracket]` demographic, focusing on high-performing categories like `[Insert Top Category]`.
 3. **Cross-Selling & Bundling:** Bundle lower-priced items with high-demand products in `[Insert Top Category]` to increase average units per transaction (`Quantity`).
 
+## Key Findings and Business Recommendations
+Peak months: May & October
+Lowest months: March & September
+Age range: 18–64
+Gender split: ~51% Female / ~49% Male
+Top category: Electronics
+Second category: Clothing
 ---
 
 ## Repository Contents
